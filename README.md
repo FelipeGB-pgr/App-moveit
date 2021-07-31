@@ -4,7 +4,7 @@
 # Sobre o projeto
 Moveit é um projeto que foi criado baseado nas aulas do programa da Rocketseat chamado NLW. 
 Suas principais características visam atribuir um modelo de pomodoro que consiste
-em uma marcação de um time até o cumprimento de desafios para possiblitar o seu utilizador 
+em uma marcação de um time até o cumprimento de desafios para possibilitar o seu utilizador 
 a não ter problemas futuros de impossibilidades musculares. Seu layout aborda de forma 
 concisa a utilização das melhores práticas de desenvolvimento de interfaces.
 
